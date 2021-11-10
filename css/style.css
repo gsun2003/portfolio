@@ -1,0 +1,35 @@
+h2{text-decoration: underline;}
+h1,h3{color: coral;}
+body{background-color: aquamarine; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+        table,th,td{
+            border: 2px solid;
+             }
+        p{color:blueviolet; font-style: italic; font-size: larger;}     
+ div{  background-color:skyblue;
+        width: 300px;
+        border:5px solid green;
+        padding: 50px;
+        margin: 20px;
+    }
+    #end{font-family: 'Courier New', Courier, monospace; color: darkslateblue;}
+    
+       
+    div.parent3 {
+        position: absolute;
+        border: 1px solid blue;
+        width: 300px;
+        height: 100px;
+        top: 200px;
+        right: 15px;
+      }
+      
+      div.child3 {
+        position: absolute;
+        border: 1px solid red;
+        top: 450px;
+        right: 100px;
+      #  display: none;
+      }
+
+      li.nav{display: inline;}
