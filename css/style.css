@@ -29,7 +29,6 @@ body{background-color: aquamarine; font-family: Verdana, Geneva, Tahoma, sans-se
         border: 1px solid red;
         top: 450px;
         right: 100px;
-      #  display: none;
-      }
+            }
 
       li.nav{display: inline;}
